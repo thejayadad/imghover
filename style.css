@@ -9,7 +9,7 @@
 }
 
 .box{
-    width: 250px;
+    width: 550px;
     margin: 0 10px;
     box-shadow: 0 0 20px 2px lightslategrey;
     transition: .3s;
